@@ -1,12 +1,12 @@
-## 🔥Infra Engineer in Japan
+# Infra Engineer in Japan
 
+## 🔥Skills
 ### ⚒️Infra
 <div align="left">
     <h1>
         <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,mysql,postgres" />
     </h1>
 </div>
-<br /><br />
 
 ### 🖼️Frontend
 <div align="left">
@@ -14,7 +14,6 @@
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,ts" />
     </h1>
 </div>
-<br /><br />
 
 ### ⚙️Backend
 <div align="left">
@@ -22,7 +21,6 @@
         <img src="https://skillicons.dev/icons?i=vercel,ruby,rails" />
     </h1>
 </div>
-<br /><br />
 
 ### 📱Application
 <div align="left">
@@ -30,7 +28,6 @@
         <img src="https://skillicons.dev/icons?i=vscode,figma,gitlab" />
     </h1>
 </div>
-<br /><br />
 
   ※Another skill and tools  
   **Virtual Box**, **SVN**, **Cisco**, **WindowsServer2019**  
