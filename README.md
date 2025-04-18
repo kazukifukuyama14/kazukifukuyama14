@@ -6,7 +6,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fukuyamk&theme=tokyonight&column=7
-)](https://github.com/fukuyamk14/github-profile-trophy)
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 # ⭐️My Skill (Programming Languages, Frameworks and Tools)
 <div align="center">
