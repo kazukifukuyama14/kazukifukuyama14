@@ -11,7 +11,7 @@
 ### 🖼️Frontend
 <div align="left">
     <h1>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,ts" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next" />
     </h1>
 </div>
 
@@ -25,7 +25,7 @@
 ### 📱Application
 <div align="left">
     <h1>
-        <img src="https://skillicons.dev/icons?i=vscode,figma,gitlab" />
+        <img src="https://skillicons.dev/icons?i=vscode,figma,gitlab,notion" />
     </h1>
 </div>
 
