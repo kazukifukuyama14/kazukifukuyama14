@@ -12,7 +12,7 @@
   **Virtual Box**, **SVN**, **Cisco**, **WindowsServer2019**  
   and so on.  
   
-### 🌱NOW TRAINING
+### 🌱Now Training
 <div align="left">
     <h1>
         <img src="https://skillicons.dev/icons?i=html,css,react,next,ts,vercel,ruby,rails" />
