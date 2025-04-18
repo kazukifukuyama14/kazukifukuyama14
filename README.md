@@ -8,8 +8,9 @@
 </div>
 <br /><br />
 
-  ※Another skill and tools
-  Virtual Box, SVN, Cisco, WindowsServer2019 and so on.
+  ※Another skill and tools  
+  **Virtual Box**, **SVN**, **Cisco**, **WindowsServer2019**  
+  and so on.  
   
 ### 🌱NOW TRAINING
 <div align="left">
