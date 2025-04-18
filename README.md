@@ -1,9 +1,33 @@
 ## 🔥Infra Engineer in Japan
 
-### ⭐️My Skill (Programming Languages, Frameworks and Tools)
+### ⚒️Infra
 <div align="left">
     <h1>
-        <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,redhat,mysql,postgres,github,vscode,figma,gitlab" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,mysql,postgres" />
+    </h1>
+</div>
+<br /><br />
+
+### 🖼️Frontend
+<div align="left">
+    <h1>
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,ts" />
+    </h1>
+</div>
+<br /><br />
+
+### ⚙️Backend
+<div align="left">
+    <h1>
+        <img src="https://skillicons.dev/icons?i=vercel,ruby,rails" />
+    </h1>
+</div>
+<br /><br />
+
+### 📱Application
+<div align="left">
+    <h1>
+        <img src="https://skillicons.dev/icons?i=vscode,figma,gitlab" />
     </h1>
 </div>
 <br /><br />
@@ -11,14 +35,6 @@
   ※Another skill and tools  
   **Virtual Box**, **SVN**, **Cisco**, **WindowsServer2019**  
   and so on.  
-  
-### 🌱Now Training
-<div align="left">
-    <h1>
-        <img src="https://skillicons.dev/icons?i=html,css,react,next,ts,vercel,ruby,rails" />
-    </h1>
-</div>
-<br /><br />
 
 ### 📊Status
 <p align="left"> 
