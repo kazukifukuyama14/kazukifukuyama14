@@ -8,20 +8,6 @@
     </h1>
 </div>
 
-### 🖼️Frontend
-<div align="left">
-    <h1>
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next" />
-    </h1>
-</div>
-
-### ⚙️Backend
-<div align="left">
-    <h1>
-        <img src="https://skillicons.dev/icons?i=vercel,ruby,rails" />
-    </h1>
-</div>
-
 ### 📱Application
 <div align="left">
     <h1>
