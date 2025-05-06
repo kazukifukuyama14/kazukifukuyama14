@@ -33,7 +33,7 @@
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fukuyamk14&theme=tokyonight&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazukifukuyama14&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
