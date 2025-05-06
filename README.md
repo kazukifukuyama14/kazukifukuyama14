@@ -28,8 +28,8 @@
 
 ### 📊Status
 <p align="left"> 
-  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=fukuyamk14&theme=tokyonight&show_icons=ture" />
-  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fukuyamk14&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=kazukifukuyama14&theme=tokyonight&show_icons=ture" />
+  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukifukuyama14&layout=compact&show_icons=true&theme=tokyonight" />
 
 </p>
 
