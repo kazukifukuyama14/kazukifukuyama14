@@ -4,14 +4,14 @@
 ### ⚒️Infra
 <div align="left">
     <h1>
-        <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,mysql,postgres" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
     </h1>
 </div>
 
 ### 📱Application
 <div align="left">
     <h1>
-        <img src="https://skillicons.dev/icons?i=vscode,figma,gitlab,notion" />
+        <img src="https://skillicons.dev/icons?i=vscode,gitlab,notion" />
     </h1>
 </div>
 
