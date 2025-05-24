@@ -11,7 +11,7 @@
 ### 📱Application
 <div align="left">
     <h1>
-        <img src="https://skillicons.dev/icons?i=vscode,gitlab,notion" />
+        <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,notion" />
     </h1>
 </div>
 
