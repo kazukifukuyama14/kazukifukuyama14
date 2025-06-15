@@ -1,4 +1,4 @@
-# Infra Engineer in Japan
+# Infrastructure Engineer in Japan
 
 ## 🔥Skills
 <div align="left">
