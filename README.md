@@ -12,13 +12,8 @@
   and so on.  
 
 ### 📊Status
-<p align="left"> 
-  <img alt="github stats" height="140px" src="https://github-readme-stats.vercel.app/api?username=kazukifukuyama14&theme=tokyonight&show_icons=ture" />
-  <img alt="Top Langs" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukifukuyama14&layout=compact&show_icons=true&theme=tokyonight" />
-
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazukifukuyama14&theme=tokyonight&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+[![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/cobalt2/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/cobalt2/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/cobalt2/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/cobalt2/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/cobalt2/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
