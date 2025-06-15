@@ -1,24 +1,9 @@
 # Infra Engineer in Japan
 
 ## 🔥Skills
-### ⚒️Infra
 <div align="left">
     <h1>
-        <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux" />
-    </h1>
-</div>
-
-### 📱Application
-<div align="left">
-    <h1>
-        <img src="https://skillicons.dev/icons?i=vscode,github,githubactions,gitlab,notion" />
-    </h1>
-</div>
-
-### 💻OS
-<div align="left">
-    <h1>
-        <img src="https://skillicons.dev/icons?i=apple,linux,windows" />
+        <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,vscode,github,githubactions,gitlab,notion,apple,linux,windows" />
     </h1>
 </div>
 
