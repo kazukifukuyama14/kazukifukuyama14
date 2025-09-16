@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * *"  # daily at 00:00 UTC
   workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'profile-summary-card-output/**'
 
 permissions:
   contents: write
