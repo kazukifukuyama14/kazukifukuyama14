@@ -18,16 +18,27 @@ jobs:
     name: generate
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate profile summary cards (no auto-push)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # BRANCH_NAME is optional, default to main, branch name to push cards
+          # BRANCH_NAME is not used when AUTO_PUSH=false
           BRANCH_NAME: "main"
           # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: 9
           # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
           EXCLUDE: ""
-          # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
-          AUTO_PUSH: true
+          # Disable auto-push; we will commit via PR to avoid branch protection issues
+          AUTO_PUSH: false
+      - name: Create pull request for updated cards
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update profile summary cards"
+          title: "chore: update profile summary cards"
+          body: "Automated update of profile summary cards."
+          branch: "cards/update"
+          delete-branch: true
+          labels: "automation"
