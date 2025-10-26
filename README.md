@@ -2,7 +2,7 @@
 
 ## 🔥Skills
 
-![Skills (AWS, Docker, Linux, VS Code, GitHub, GitHub Actions, Notion, Apple, Windows)](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,vscode,github,githubactions,gitlab,notion,apple,linux,windows)
+![Skills (AWS, Docker, Linux, VS Code, GitHub, GitHub Actions, Notion, Apple, Windows)](https://skillicons.dev/icons?i=aws,docker,linux,vscode,github,githubactions,notion,apple,linux,windows)
 
 ※Another skill and tools  
  **Virtual Box**, **SVN**, **Cisco**, **WindowsServer2019**  
