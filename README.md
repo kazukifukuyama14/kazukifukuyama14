@@ -1,4 +1,4 @@
-# Infra Engineer in Japan
+# Profile
 
 ## 🔥Skills
 
@@ -27,7 +27,7 @@
 
 ### 🛠️ Editor / IDE
 
-![Editors (VS Code)](https://skillicons.dev/icons?i=vscode)
+![Editors (VS Code, Eclipse)](https://skillicons.dev/icons?i=vscode,eclipse)
 
 ### 📚 Knowledge / Collaboration
 
