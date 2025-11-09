@@ -1,45 +1,38 @@
+# プロフィール概要カードを生成するためのGitHub Actionsワークフロー
 name: GitHub-Profile-Summary-Cards
 
+# ワークフローをスケジュール、手動トリガー、または特定のパスを除外してmainにプッシュしたときにトリガー
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily at 00:00 UTC
+    - cron: "0 0 * * *" # daily at 00:00 UTC
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [main]
     paths-ignore:
-      - 'profile-summary-card-output/**'
+      - "profile-summary-card-output/**"
 
+# 必要な権限を設定
 permissions:
   contents: write
-  pull-requests: write
 
+# ジョブ定義
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
     steps:
       - uses: actions/checkout@v4
-      - name: Generate profile summary cards (no auto-push)
+      - name: Generate profile summary cards (auto push)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # BRANCH_NAME is not used when AUTO_PUSH=false
+          # BRANCH_NAMEは自動プッシュを受け取るブランチを制御
           BRANCH_NAME: "main"
-          # UTC_OFFSET is optional, default to zero
+          # UTC_OFFSETはオプションで、デフォルトはゼロ
           UTC_OFFSET: 9
-          # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
+          # EXCLUDEはオプションで、除外する言語のカンマ区切りリスト、デフォルトは""
           EXCLUDE: ""
-          # Disable auto-push; we will commit via PR to avoid branch protection issues
-          AUTO_PUSH: false
-      - name: Create pull request for updated cards
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "chore: update profile summary cards"
-          title: "chore: update profile summary cards"
-          body: "Automated update of profile summary cards."
-          branch: "cards/update"
-          delete-branch: true
-          labels: "automation"
+          # 自動プッシュを有効にして、更新を直接mainに反映させる
+          AUTO_PUSH: true

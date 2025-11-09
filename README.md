@@ -2,11 +2,38 @@
 
 ## 🔥Skills
 
-![Skills (AWS, Docker, Linux, VS Code, GitHub, GitHub Actions, Notion, Apple, Windows)](https://skillicons.dev/icons?i=aws,docker,linux,vscode,github,githubactions,notion,apple,linux,windows)
+### ☁️ Infra / Network
 
-※Another skill and tools  
- **Virtual Box**, **SVN**, **Cisco**, **WindowsServer2019**  
- and so on.
+![Infra (AWS, Google Cloud)](https://skillicons.dev/icons?i=aws,gcp)
+
+- **Cisco** (Network devices)
+- **VirtualBox**（Local Virtualization）
+
+### 🧱 Container / IaC
+
+![Containers (Docker)](https://skillicons.dev/icons?i=docker)
+
+### 🔄 CI/CD & VCS
+
+![CI/CD (GitHub, GitHub Actions, Jenkins)](https://skillicons.dev/icons?i=github,githubactions,jenkins)
+
+- **Subversion**（Experience maintaining existing assets）
+
+### 💻 OS / Platform
+
+![OS (Linux, Windows, Apple)](https://skillicons.dev/icons?i=linux,windows,apple)
+
+- **Windows Server 2019**（Failover Clustering, AD/DNS etc.）
+
+### 🛠️ Editor / IDE
+
+![Editors (VS Code)](https://skillicons.dev/icons?i=vscode)
+
+### 📚 Knowledge / Collaboration
+
+![Tools (Notion, Markdown)](https://skillicons.dev/icons?i=notion,md)
+
+Skills will continue to be added and updated in the future.
 
 ## 📊Status
 
