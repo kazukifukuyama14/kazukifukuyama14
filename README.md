@@ -11,7 +11,7 @@
 
 ### 🧱 Container / IaC
 
-![Containers (Docker)](https://skillicons.dev/icons?i=docker)
+![Containers (Docker, Terraform)](https://skillicons.dev/icons?i=docker,terraform)
 
 ### 🔄 CI/CD & VCS
 
