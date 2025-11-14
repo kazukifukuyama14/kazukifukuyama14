@@ -1,64 +1,63 @@
-## github
+# Profile Summary Cards: GitHub
 
-[![](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-### Now you can add this to your markdown
+<!-- markdownlint-disable MD013 -->
+
+## GitHub
+
+[![Profile details card for GitHub theme](./0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most used languages card for GitHub theme](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Commit language volume card for GitHub theme](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Contribution stats card for GitHub theme](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive time card for GitHub theme](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## Now you can add this to your markdown
+
+```md
+[![Profile details card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most used languages card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Commit language volume card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Contribution stats card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive time card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 
-[![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-```
-
-### Each card usage
----
-
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/0-profile-details.svg)
-```
-
-    
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/1-repos-per-language.svg)
-```
-
-    
+## Each card usage
 
 ---
 
-![](./2-most-commit-language.svg)
+![Profile details card for GitHub theme](./0-profile-details.svg)
 
+```md
+![Profile details card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/0-profile-details.svg)
 ```
-![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/2-most-commit-language.svg)
-```
-
-    
 
 ---
 
-![](./3-stats.svg)
+![Most used languages card for GitHub theme](./1-repos-per-language.svg)
 
+```md
+![Most used languages card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/1-repos-per-language.svg)
 ```
-![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/3-stats.svg)
-```
-
-    
 
 ---
 
-![](./4-productive-time.svg)
+![Commit language volume card for GitHub theme](./2-most-commit-language.svg)
 
-```
-![](https://raw.githubusercontent.com/kazukifukuyama14/kazukifukuyama14/main/profile-summary-card-output/github/4-productive-time.svg)
+```md
+![Commit language volume card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/2-most-commit-language.svg)
 ```
 
-    
+---
+
+![Contribution stats card for GitHub theme](./3-stats.svg)
+
+```md
+![Contribution stats card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/3-stats.svg)
+```
+
+---
+
+![Productive time card for GitHub theme](./4-productive-time.svg)
+
+```md
+![Productive time card for GitHub theme](https://raw.githubusercontent.com/wan0ri/wan0ri/main/profile-summary-card-output/github/4-productive-time.svg)
+```
