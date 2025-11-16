@@ -3,8 +3,9 @@
 ## 🧠 LAPRAS Card
 
 <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/KVQVZKL" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.21&b=3.36&i=2.77&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 11/16/2025, 6:10:35 AM</p>
+
+[![Score of {SHARE_ID} on LAPRAS](https://lapras-card-generator.vercel.app/api/svg?e=3.21&b=3.36&i=2.77&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja)](https://lapras.com/public/KVQVZKL)
+
 <!--END_SECTION:lapras-card-->
 
 ## 🔥Skills
